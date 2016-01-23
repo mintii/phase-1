@@ -8,6 +8,32 @@ I manage my time using time boxing. I've used this strategy for the longest time
 I will be time boxing during phase 0 because it's the best way for me to learn. I plan on using the pomodoro technique at first because I like reflecting on my work and the 25 minute cap will let me be real with my self, I'll be able to tell if something is working or not. It will let me learn from trail and error and I'll be able to relate my mistakes to projects later on. It will also help me help other people. If I'm pairing and see my partner heading in a direction I know wont work, I can stop them and tell them my experience with the method they are using. This would increase communication and let both partners get a feel for each others workflow. Time boxing will let me do large amounts of small work over time and will make me comfortable when experimenting with new topics.
 
 # 1.2 The Command Line
+1. A shell is a command line interface
+bash is a linux/os x based shell
+2. Shell scripting was the most challenging for me because the syntax is different
+3. I was able to play with the commands
+4. So far the most important commands are cd, ls and mkdir. I think I'll be using these the most when starting out.
 
+-pwd = prints the current directory/ shows where you are
+
+-ls = lists directory
+
+-mv = moves a file or a directory
+
+-cd = changes directory
+
+-../ = go up a directory
+
+-touch = creates a new file
+
+-mkdir = makes a new directory
+
+-less = shows first screens worth of data from a file
+
+-rmdir = removes a directory
+
+-rm = removes files
+
+-help = shows a manual
 
 # 1.4 Forking and Cloning
