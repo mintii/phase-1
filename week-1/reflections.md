@@ -37,3 +37,14 @@ bash is a linux/os x based shell
 -help = shows a manual
 
 # 1.4 Forking and Cloning
+forking is done on git hub. It will create a copy on your github account that you can work on without changing the original. 
+
+you can create a new repo on git hub by clicking *+new repository*
+
+To fork an existing repo to your github account click the *fork* button on the top right corner of the webpage. (right under your profile avatar)
+once the repo is forked on your github account you will take the https link of the repo and clone it to the directory of your choice so you can work on it locally. You can do this by using "git clone https://link" in git bash 
+
+
+You would fork an existing repository to your github account because it is faster than recreating it in a new repo.
+
+I had troubles with directories on my local machine when starting out with git & github because I'd usually be in the wrong one.
