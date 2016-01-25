@@ -14,7 +14,7 @@ A wireframe will give you faster workflow because you wont be blindly coding. Wi
 
 Yes, I got a general look of what I want and I was able to choose a different spot for the navigation bar without coding. 
 
-**Did you revise your wireframe or stick with your first idea?
+**Did you revise your wireframe or stick with your first idea?**
 
 I revised my wireframe. I changed the location of the nav bar by moving shapes around.
 
