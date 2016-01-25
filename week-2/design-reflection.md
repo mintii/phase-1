@@ -50,4 +50,4 @@ User experiance is valuble because it's the reason why your site will recive tra
 
 I find information gathering and making site maps tedious because it feels like it takes more time than it should to choose, relate and take away features that your site will contain. I like to jump into developing but I quickly realized that design makes the coding process smoother.
 
-![sitemap](week-2/imgs/site-map.PNG)
+![sitemap](imgs/site-map.PNG)
