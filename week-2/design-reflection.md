@@ -1,27 +1,27 @@
 **What are the 6 Phases of Web Design?**
 The 6 basic phases to the process of Web Design are
 
-1. Information Gathering.
+**Information Gathering.**
 
 Decide the purpose, goals, target audience and content of your site. This will make organizing the site easier and give you an idea of how to structure the site based off why you're creating it.
 
-2. Planning.
+**Planning.**
 
 Planning is done by creating a site map, it will help you decide what to keep, change and delete to make it easy for the end user to navigate.
 
-3. Design.
+**Design**
 
 Now that you know what your site needs to contain, its time to put everything together for show. Using a site mockup or wireframe is a great way to prototype ideas. They allow you to set placeholders for the content you will put in.
 
-4. Development.
+**Development.**
 
 After you have an idea of what you'd like the site to look like. You can start writing code to bring the website to life. 
 
-5. Testing and Delivery.
+**Testing and Delivery.**
 
 This is where the developer makes sure the site works and launches it. Things such as cross browser compatability, forms and scripts are checked over so consumers wont run into any hicups once the site is live. 
 
-6. Maintenance
+**Maintenance**
 
 Your site wont look the way it does forever. Your employer will most likely want new content featured regularly so updating it is neccissary.
 
@@ -50,4 +50,4 @@ User experiance is valuble because it's the reason why your site will recive tra
 
 I find information gathering and making site maps tedious because it feels like it takes more time than it should to choose, relate and take away features that your site will contain. I like to jump into developing but I quickly realized that design makes the coding process smoother.
 
-![sitemap](week-2/imgs/site-map.PNG)
+![sitemap](imgs/site-map.PNG)
